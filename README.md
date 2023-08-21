@@ -1,4 +1,7 @@
 # Predicting power output from turbine based on wind characteristics
+- Author : Anirban Chatterjee
+- Version : 1.0.0
+
 
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/zenml)](https://pypi.org/project/zenml/)
 
@@ -230,3 +233,29 @@ A live Streamlit demo of this project will be available here, allowing you to in
 ```bash
 To be done
 ```
+
+# Resources
+
+Here are some of the resources, sites, and notebooks that I referred to during the development of this project:
+
+- [Wind Turbine SCADA Dataset](https://www.kaggle.com/datasets/berkerisen/wind-turbine-scada-dataset): The dataset used for this project.
+
+- [ZenML Documentation](https://docs.zenml.io/): The official documentation for ZenML, which guided the implementation of the machine learning pipeline.
+
+- [MLflow Documentation](https://mlflow.org/docs/latest/index.html): Documentation for MLflow, which I plan to use for deployment in future iterations.
+
+- [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html): Documentation for the scikit-learn library, which provided the machine learning models used in this project.
+
+- [Streamlit Documentation](https://docs.streamlit.io/): Documentation for Streamlit, which I used to create the live demo of the project.
+
+- [Python Documentation](https://docs.python.org/3/): The official Python documentation, which was referenced for language syntax and features.
+
+- [Kaggle](https://www.kaggle.com/): Community platform with various datasets, kernels, and discussions that provided insights and inspiration.
+
+- [DataCamp](https://www.datacamp.com/): Online platform for learning data science and machine learning, which helped enhance my understanding of concepts.
+
+- [GitHub](https://github.com/): Version control platform, where I hosted the code and tracked changes throughout the project.
+
+- [Notebook Name](https://colab.research.google.com/github/zenml-io/zenml/blob/main/examples/quickstart/notebooks/quickstart.ipynb): Brief description of a specific notebook, if you have any specific notebooks you referred to.
+
+I would like to express my gratitude to these resources and communities for their valuable contributions to the development of this project.
