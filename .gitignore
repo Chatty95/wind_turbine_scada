@@ -1,0 +1,28 @@
+# Compiled Python files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+myenv/
+
+# Project-specific files
+scikit_learn-1.1.dev0-cp39-cp39-macosx_11_0_universal2.whl
+
+# Data and resources
+saved_models/
+
+# ZenML log files
+zenml_logging.log
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Compiled distribution
+dist/
+build/
+*.egg-info/
+
+# Temporary files
+*.swp
+*.~lock.*
