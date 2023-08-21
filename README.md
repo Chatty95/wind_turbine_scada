@@ -22,11 +22,13 @@ The goal is to predict theoretical power output using machine learning technique
 
 ## Python Requirements
 
-This project requires **Python 3.8**. For MAC M1 processors, use the following command before creating a virtual environment:
+This project requires **Python 3.8**.
 
+(Please make sure Python 3.8 is installed)
+
+For MAC M1 processors, use the following command before creating a virtual environment:
 ```bash
 arch -x86_64 zsh
-Follow these s
 ```
 
 Follow the steps to get started with the project.
