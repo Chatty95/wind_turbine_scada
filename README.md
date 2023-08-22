@@ -37,7 +37,7 @@ arch -x86_64 zsh
 Follow the steps to get started with the project.
 
 ```bash
-git clone https://github.com/zenml-io/zenml-projects.git
+git clone git@github.com:Chatty95/wind_turbine_scada.git
 cd wind_turbine_scada
 virtualenv wind-scada-3.8 --python=python3.8
 source wind-scada-3.8/bin/activate
