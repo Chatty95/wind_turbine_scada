@@ -203,7 +203,7 @@ These evaluation strategies allow for adaptable assessment of model performance,
 
 **To be done**
 
-While this ZenML Project trains and deploys a model locally, other ZenML integrations such as the [Seldon](https://github.com/zenml-io/zenml/tree/main/examples/seldon_deployment) deployer can also be used in a similar manner to deploy the model in a more production setting (such as on a Kubernetes cluster). 
+While this ZenML Project trains and deploys a model locally, other ZenML integrations such as the Seldon deployer can also be used in a similar manner to deploy the model in a more production setting (such as on a Kubernetes cluster). 
 
 We shall use MLflow (To be done) here for the convenience of its local deployment.
 
