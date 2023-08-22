@@ -256,6 +256,6 @@ Here are some of the resources, sites, and notebooks that I referred to during t
 
 - [GitHub](https://github.com/): Version control platform, where I hosted the code and tracked changes throughout the project.
 
-- [Notebook Name](https://colab.research.google.com/github/zenml-io/zenml/blob/main/examples/quickstart/notebooks/quickstart.ipynb): Brief description of a specific notebook, if you have any specific notebooks you referred to.
+- [Notebook Name](https://colab.research.google.com/github/zenml-io/zenml/blob/main/examples/quickstart/notebooks/quickstart.ipynb): Notebook provided by zenml.io official devs.
 
 I would like to express my gratitude to these resources and communities for their valuable contributions to the development of this project.
